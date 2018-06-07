@@ -12,3 +12,12 @@ assignment 5: https://github.com/Jobbonsel/assignments/blob/master/Graded_assign
 
 
 assignment 6: https://github.com/Jobbonsel/assignments/blob/master/Graded_assignment_2.ipynb
+
+
+
+
+
+PYTHON EXAM: https://github.com/Jobbonsel/assignments/blob/master/exam_june_7_2018.ipynb
+
+
+R EXAM: https://github.com/Jobbonsel/assignments/blob/master/Exam_student.ipynb
