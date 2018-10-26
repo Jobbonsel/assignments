@@ -21,3 +21,6 @@ PYTHON EXAM: https://github.com/Jobbonsel/assignments/blob/master/exam_june_7_20
 
 
 R EXAM: https://github.com/Jobbonsel/assignments/blob/master/Exam_student.ipynb
+
+
+RESIT: PYTHON PART 26 OCTOBER 2018: https://github.com/Jobbonsel/assignments/blob/master/exam_Oct_26_2018%20(1).ipynb
